@@ -11,11 +11,7 @@ agent definitions themselves are private.
 code, still found 10 issues.** All 10 were fixed and retested before the release.
 → [Case study: from idea to a live user trial in 12 days](docs/CASE_STUDY.md)
 
-<p>
-  <img src="docs/images/bag-how-to-play.png" alt="Bağ, the how-to-play screen" height="440" />
-  &nbsp;
-  <img src="docs/images/bag-game.png" alt="Bağ, a puzzle in progress with two groups found" height="440" />
-</p>
+<img src="docs/images/bag-screens.png" alt="Bağ: the how-to-play screen, and a puzzle in progress with two groups found" width="720" />
 
 <sub>Bağ, a daily Turkish word puzzle built through this workflow. Shown here: a past day's puzzle.</sub>
 
